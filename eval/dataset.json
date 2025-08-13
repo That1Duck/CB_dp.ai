@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e1",
+    "query": "I want to learn Python for AI apps",
+    "expected_intent": "course",
+    "expected_url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/"
+  },
+  {
+    "id": "e2",
+    "query": "What are current trends in Python for data analysis on deeplearning.ai?",
+    "expected_intent": "blog",
+    "expected_url": "https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends/"
+  },
+  {
+    "id": "e3",
+    "query": "Recommend a course to start with LLMs and generative AI",
+    "expected_intent": "course",
+    "expected_url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+  },
+  {
+  "id": "e4",
+  "query": "What libraries are needed to work with AI ?",
+  "expected_intent": "blog",
+  "expected_url": "https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/"
+  },
+  {
+    "id": "e5",
+    "query": "How to build agents wich can interact with websites",
+    "expected_intent": "course",
+    "expected_url": "https://www.deeplearning.ai/short-courses/building-ai-browser-agents/"
+  },
+  {
+    "id": "e6",
+    "query": "Tell me what programming languages are used in the implementation of AI programs",
+    "expected_intent": "blog",
+    "expected_url": "https://www.deeplearning.ai/blog/five-important-ai-programming-languages/"
+  },
+  {
+    "id": "e7",
+    "query": "Looking for a course on building RAG applications with vector databases",
+    "expected_intent": "course",
+    "expected_url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases"
+  },
+  {
+  "id": "e8",
+  "query": "Can be AI used in aerospace industry?",
+  "expected_intent": "blog",
+  "expected_url": "https://www.deeplearning.ai/blog/jagriti-agrawal/"
+  },
+  {
+  "id": "e9",
+  "query": "implementation of long-term memory in AI",
+  "expected_intent": "course",
+  "expected_url": "https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/"
+  },
+  {
+    "id": "e10",
+    "query": "Explain quantum mechanics basics",
+    "expected_intent": "oos",
+    "expected_url": null
+  },
+  {
+    "id": "e11",
+    "query": "Best pizza restaurants in New York",
+    "expected_intent": "oos",
+    "expected_url": null
+  }
+]

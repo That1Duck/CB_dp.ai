@@ -1,0 +1,877 @@
+[
+  {
+    "title": "Python for Data Analysis: Key Stats and Trends",
+    "description": "Neeraj Kumar is driven by a passion for exploring the intersection of artificial intelligence (AI) and robotics.",
+    "url": "https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Learn Fast and Build Things: How Julia Kryuchkova Went From No-Code to Writing Python Apps",
+    "description": "Recently, I completed the short course AI Python for Beginners by DeepLearning.AI, taught by Andrew Ng. I am not a programmer, so I was thrilled when immediately after completing the first course in the sequence — which took about an hour — I managed to create my first program in Python.",
+    "url": "https://www.deeplearning.ai/blog/learner-profile-how-julia-went-from-no-code-tools-to-building-her-own-python-applications/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2024 Pie & AI Ambassador Spotlight: Neeraj Kumar K, Bangalore, India",
+    "description": "Neeraj Kumar is driven by a passion for exploring the intersection of artificial intelligence (AI) and robotics.",
+    "url": "https://www.deeplearning.ai/blog/2024-pie-ai-ambassador-spotlight-neerak-kumar-bangalore/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Armielyn Obinguar, Manila, Philippines",
+    "description": "Armielyn Obinguar aims to grow the DeepLearning.AI community in the Philippines and keep positively impacting society.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-armielyn-obinguar-manila-philippines/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Cheng Zhang, Winnipeg, Canada",
+    "description": "Cheng Zhang moved from the eastern hemisphere to the west, and now hosts events for Chinese AI developers in Canada.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-cheng-zhang-winnipeg/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Markey Tan, Shenzhen, China",
+    "description": "Markey Tan believes that regardless of one’s background, anyone can make a meaningful contribution to the field of AI.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-markey-tan-shenzhen-china/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Shilpi Agarwal, Silicon Valley, USA",
+    "description": "Shilpi Agarwal’s mission is to build an ethics-first data and AI world, and the Pie & AI events are helping her expand it.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-shilpi-agarwal/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: George V Scripcariu, Bucharest",
+    "description": "George Scripcariu believes AI will become even more present and embedded in all aspects of our lives and is preparing his community for it.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-george-v-scripcariu/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Dmitriy Starson, Menlo Park",
+    "description": "Dmitriy Starson has hosted many DeepLearning.AI events, including a joint panel on AI for Good and a series with representatives from Sequoia Capital.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-dmitriy-tarson/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Tarun R Jain, Bengaluru",
+    "description": "I started my journey in Machine Learning and Deep Learning with Professor Andrew Ng’s Coursera courses. Without these courses, I would probably have zero knowledge in this field. Being a part of this community allowed me to access valuable resources and courses. It also provided a supportive network of peers who shared my passion for AI. As I continued to learn and grow, I found myself increasingly engaged in organizing events, workshops, and discussions to help others navigate the complexities of deep learning.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-tarun-jain-bengaluru/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Godwin France, Accra",
+    "description": "I want to assist my community of young Africans to be in the know about cutting-edge technologies. The DeepLearning AI Event Ambassador role has given me so many opportunities within the technology and AI community. I have been able to connect with like-minded individuals from across the globe. As a STEM educator, I believe that now is the time for many young Africans to exponentially grow their acquisition of digital skills. AI will feed into every aspect of our lives, and DeepLearning AI is the right place to get started.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-godwin-france/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI Ambassador Spotlight 2023: Meet the Leaders Building a Network of Global AI Hubs",
+    "description": "Since 2019, Pie & AI ambassadors have hosted over 700 events. Each year we celebrate their efforts.",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-event-ambassador-spotlight-2023/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Answers from the instructor: AI for Good’s Robert Monarch",
+    "description": "I’m currently a machine learning professional and have been working in Silicon Valley for about 15 years. I’ve been with big companies, like Amazon Web Services and Apple, and startups focused on data labeling and machine learning.",
+    "url": "https://www.deeplearning.ai/blog/ai-for-good-instructor/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "A conversation with Microsoft’s AI for Good Lab Director: Juan Lavista Ferres",
+    "description": "I have been interested in AI for Good-type work for the majority of my career. Almost 20 years ago, a good friend of mine lost a child to SIDS (sudden infant death syndrome). As a result, I started volunteering with Seattle Children’s Hospital, helping to understand the causes and preventative steps that could be taken to reduce the risk of SIDS. This volunteer engagement led to the opportunity to create the Microsoft AI for Good Lab. I could have never imagined the scope and scale of the work we’re fortunate to do today. From improving health outcomes to biodiversity conservation and humanitarian response, the relevance and need for AI in every sector has never been more pronounced.",
+    "url": "https://www.deeplearning.ai/blog/a-conversation-with-microsofts-ai-for-good-lab-director-juan-lavista-ferres/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Vikram Mark Radhakrishnan, The Hague",
+    "description": "During my time as a PhD student, I realized that my biggest professional and personal interests are artificial intelligence and community building. As a PhD student in astronomy, I used to organize communities for astronomy enthusiasts, bringing together scientists, amateur astronomers, and astrophotographers to connect and learn from each other. And, since my research required knowledge of deep learning algorithms, I completed the courses on deep learning and TensorFlow from Deeplearning.AI and subscribed to the newsletter.  During that time, I realized that my biggest professional and personal interests are artificial intelligence and community building.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-vikram-mark-radhakrishnan/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Maxwell Nzekwe, Lagos",
+    "description": "I joined the Deeplearning.AI community as an event ambassador because my primary goal is to help promote the community and its events and to provide information and assistance to those who are interested in learning more about deep learning and AI. I noticed that a lot of students and professionals want to get into tech, and that inspired me to help them. I am passionate about building the Deeplearning.AI community in Nigeria.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-maxwell-nzekwe/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Irvi Aini, Tegal",
+    "description": "Being an Event Ambassador for the DeepLearning.AI community provides an opportunity to play a crucial role in bridging the gap between academia, industry, and enthusiasts. It offers me a platform to share the knowledge, experience, and insights I’ve gained from pursuing my Master’s degree in data science.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-irvi-aini/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2023 Pie & AI Ambassador Spotlight: Brennan Pursell, Pennsylvania",
+    "description": "Andrew Ng persuaded me that AI is the new electricity. We are plunging into the fourth industrial revolution, and as a professional educator I need to prepare my students to contribute to, and compete in, the new economic landscape unfolding before us. As an organization, what DeepLearning.AI cares about most is sharing knowledge about this remarkable technology, which makes it a rare organization in a sector marked by sensational corporate profits and enormous societal costs.",
+    "url": "https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-brennan-pursell/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Essential Python Libraries for Machine Learning and Data Science",
+    "description": "Python is the de facto programming language of the AI community. It’s easy to learn, and writing programs is a snap once you are proficient.  Thanks in large part to its open source libraries, Python…",
+    "url": "https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Five Important AI Programming Languages",
+    "description": "Coding is a must-have skill for anyone building AI products. It enables you to bring your machine learning ideas to life. Learning to code is fun and empowering, but it also requires time and effort….",
+    "url": "https://www.deeplearning.ai/blog/five-important-ai-programming-languages/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How an ML Engineer Used Hackathons to Land His Dream Job",
+    "description": "Gerry Fernando Patia leads AI infrastructure projects at Robinhood, an online platform for investors. Having emigrated from Indonesia and attended a lesser-known U.S. university, he didn’t find it easy to break into AI. He spoke…",
+    "url": "https://www.deeplearning.ai/blog/gerry-patia-machine-learning-success-story/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How to Land a Job in Machine Learning or Data Science",
+    "description": "AI can seem like a dream profession: Machine learning engineers and data scientists are in-demand and well paid. On top of that, many find the day-to-day work of building models, tuning algorithms, and analyzing data to be deeply satisfying. But the field is also competitive and fast-paced. Job seekers, especially those early in their careers, are often confused about the best way to get hired.",
+    "url": "https://www.deeplearning.ai/blog/how-to-land-a-job-in-machine-learning-or-data-science/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Answers From The Instructor: Mathematics for Machine Learning",
+    "description": "Luis is a lifelong mathematician and a machine learning scientist by trade. He has taught courses on probability at Université du Québec à Montréal and the University of Michigan, built algorithms for Google, taught AI at Apple, and currently works on language models for Cohere. His YouTube channel, Serrano Academy, is known for its approachable, bite-sized explanations of a variety of math and machine learning topics. And somewhere amid all of that, he found time to write a book: Grokking Machine Learning.",
+    "url": "https://www.deeplearning.ai/blog/answers-from-the-instructor-mathematics-for-machine-learning/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How I-Chiao Lin Went From App Developer to AI Engineer",
+    "description": "My main responsibility at HTC is developing machine learning features for our virtual reality devices, such as eye tracking. My day-to-day work consists of researching the latest AI technologies and algorithms required to develop new functions and testing those functions on hardware. My team and I work collaboratively, brainstorming to come up with ideas and test them. In the early proposal stage, we put forward plans for target customer groups and adjust our model by considering product specifications.",
+    "url": "https://www.deeplearning.ai/blog/how-i-chiao-lin-went-from-app-developer-to-ai-engineer/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: David Quintanilla",
+    "description": "I joined the DeepLearning AI Community because here in El Salvador, there were not many communities that talked about this topic, nor is it taught in our universities. I saw that DeepLearning.AI could help me to spread knowledge and connect with people interested in this field.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-david-q/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Suang Lim",
+    "description": "I felt that DeepLearning.AI is a great platform to share the work of Singapore’s AI researchers and students and also to help them connect with the wider global community. Furthermore, with new exciting developments happening almost on a daily basis in the field of AI and Data Science, the DeepLearning.AI community offers a convenient and effective channel for us to learn from each other.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-suang-l/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Arushi Bagchi",
+    "description": "I realized how deeply ingrained AI is in our everyday lives. Most people may not be aware of that, hence I wanted to bring that awareness and knowledge to them. By becoming an event ambassador, I am able to help spread AI awareness to others, as well as continue to learn from the AI experts who I host for the panel discussions. It amazes me how much people in the larger community are hungry to learn and how much appetite for AI there is out there.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-arushi-b/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Patrick Fleith",
+    "description": "I am a Data Scientist specializing in Space Systems Engineering. Part of my work is done at the European Space Agency. My job is to make space design and operations better with machine learning. For instance, developing anomaly detection systems to alert spacecraft operators about an abnormal satellite behavior. I also work on forecasting models, such as to predict the onboard power consumption, the temperatures of different equipment on the satellite, or to predict the remaining useful life of components. Other applications relate to natural language processing (NLP), such as question answering systems to help space systems engineers or flight control teams to gain quicker access to reliable technical information.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-patrick-f/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking Into AI: Sahar Nasiri on Acing the Data Science Job Interview",
+    "description": "Sahar Nasiri talks about her early interview struggles, finding her first job, and the value of understanding statistics.",
+    "url": "https://www.deeplearning.ai/blog/acing-data-science-job-interview/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Nelson Hernández",
+    "description": "I first attended a Pie & AI event organized by David Quintanilla, an AI ambassador here in San Salvador, and he explained what Deeplearning.AI and Pie & AI are. I liked the idea of becoming an ambassador because I’m a content creator and the role would help me improve the quality of my content. I was also interested because it would help me meet more people around the globe who are passionate about software development.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-nelson-h/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Angelica Chowdhury",
+    "description": "I wanted the Oceania region to be abreast of the latest developments from DeepLearning.AI and make AI knowledge available and easily accessible for the event attendees. Being geographically quite far away from the rest of the world, sometimes it becomes a challenge to keep up to date with the latest developments in AI. I wanted to play a small part in it by connecting AI enthusiasts and specialists from Oceania to the rest of the world.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-angelica-c/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Jean de Dieu Nyandwi",
+    "description": "Joining the DeepLearning.AI Ambassador community was one of the best things I did in the early days of my AI learning journey. The events I hosted made a big impact not only on me, but on other people as well. I sometimes meet people who tell me that events I hosted helped them to make a career in AI. The other day on campus, I met someone who told me that he chose to major in machine learning after watching the event I hosted with Santiago Valdarrama.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-jean-de-dieu-n/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking into AI: How Jagriti Went From Zero AI Knowledge to Coding NASA Robots",
+    "description": "Jagriti Agrawal helped design autonomous systems for NASA’s Perseverance rover. Now she is the co-founder of her own company, Kira Learning.",
+    "url": "https://www.deeplearning.ai/blog/jagriti-agrawal/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Adam Hulman",
+    "description": "I have always been active in organizing research seminars and events in my local setting, but I wanted to extend these activities to a global audience to achieve more diversity. Pie & AI events in a hybrid setting (local + virtual) seemed like the perfect way to do so.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-adam-h/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Rodrigo Beceiro",
+    "description": "I am the CTO and co-founder of Marvik, a software development firm specialized in machine learning. We help companies identify opportunities to leverage their data. I love the challenge of solving problems that no one else has solved before.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-rodrigo-b/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2022 Pie & AI Ambassador Spotlight: Deepak Sai Pendyala",
+    "description": "Pie & AI reaches underserved communities and highlights the importance of data science, artificial intelligence, and machine learning. As an undergrad, I’m always enthusiastic about learning and exploring various technologies. AI and its capabilities caught my eyes right away. As an IoT student ambassador for my college campus, I always aim to connect AI and IoT, making something new out of it. As the event ambassador of DeepLearning.AI, I get the opportunity to network with people from AI and ML backgrounds. I was fortunate to come across the ambassador opportunity and was glad to start organizing events.",
+    "url": "https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI Event Ambassador Spotlight 2022: Meet the Leaders Building a Network of Global AI Hubs",
+    "description": "Since 2019, Pie & AI ambassadors have hosted over 700 events. Each year we celebrate their efforts.",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How a Passionate Engineer Went From Writing Code to Running a Company",
+    "description": "Dr. Benjamin Harvey, CEO of AI Squaredhas used machine learning to investigate environmental problems, aid cancer research, and probe the damage caused by national security leaks",
+    "url": "https://www.deeplearning.ai/blog/working-ai-benjamin-harvey/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How a Former Academic Helped Launch a Company That Makes Cities Healthier",
+    "description": "Jared Webb, chief data scientist at BlueConduit, discusses his transition from academia to business, how he navigates the challenges of working with government data, and what he looks for in new hires.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-jared-webb/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Andrew Ng on How His Updated Machine Learning Specialization Can Help You Break Into AI",
+    "description": "In the mid-2000s, AI was still just a curiosity to the world at large. At Stanford University, however, one of the most popular classes on campus was Andrew Ng’s CS229 machine learning course. Enrollment was frequently too large to fit in the classroom, yet he wanted even more people to be able to master machine learning.",
+    "url": "https://www.deeplearning.ai/blog/andrew-ng-machine-learning-specialization/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How an Accomplished Data Scientist Found Job Satisfaction",
+    "description": "Kulsoom Abdullah pivoted from network security into a data science role after taking Andrew Ng’s original Introduction to Machine Learning course from Stanford in 2013. A self-described learning addict, she has taken more than 10 online courses, most recently the Deep Learning Specialization. Outside of work, she’s a fitness fanatic, and was the first competitive weightlifter to compete professionally for Pakistan — after winning a fight to change the dress code to allow religious head coverings. On top of all that, she’s a travel",
+    "url": "https://www.deeplearning.ai/blog/kulsoom-abdullah-data-scientist-job-satisfaction/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking Into AI: How a Machine Learning Engineer Turns Ideas Into Products",
+    "description": "Lorenzo Ostano first encountered machine learning and data science as a business analyst shortly after graduating from college. He dove into learning, and soon landed work as a machine learning engineer. After working several years for a variety of consulting companies, he recently took a job as a software engineer. He spoke to us about why he believes traditional computing skills are important to deploying enterprise machine learning applications.",
+    "url": "https://www.deeplearning.ai/blog/breaking-ai-how-a-ml-engineer-turns-ideas-into-products/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: How a Determined Entrepreneur Used Deep Learning to Grow His Business",
+    "description": "Kai Saksela is the CEO of NL Acoustics, a Finnish technology startup that designs and manufactures AI products to analyze sounds. He took the Deep Learning Specialization primarily because he loves learning new skills and has been fascinated by the field for a long time. He also had a hunch that neural networks would help his company solve a core problem: providing customers guidance on what they should do when their equipment starts making strange noises. He spoke with us about how his hunch paid off and why AI plays a central role in his company’s growth.",
+    "url": "https://www.deeplearning.ai/blog/how-determined-entrepreneur-used-deep-learning-to-grow-his-business/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "A Career in AI Felt Impossible. Then He Took the Course That Changed Everything",
+    "description": "Matt Struble is an engineer at a sportswear company, where he currently leads a team that’s developing a deep learning system for predicting shoe trends a year or two into the future. Before taking the Deep Learning Specialization, he was a computer programmer who watched data scientists from afar.",
+    "url": "https://www.deeplearning.ai/blog/ai-outsider-matt-struble/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How Deep Learning Helped an IT Manager Find New Career Satisfaction After Age 40",
+    "description": "Olivier Moulin is an IT manager for a large, multi-national medical technology company who has been working in technology for over 20 years. Early in his career, he made a tough decision to take a high paying job instead of pursuing a Ph.D. He spoke with us about how the Deep Learning Specialization helped him build the confidence to go back",
+    "url": "https://www.deeplearning.ai/blog/how-deep-learning-helped-an-it-manager/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How a New Mother Learned AI During Her Newborn Baby’s Naps",
+    "description": "Apala Guha is a senior machine learning compiler engineer at Lightmatter, a Boston-area startup. Before that, she was a computer scientist who had always been interested in deep learning. When she quit her previous job at the beginning of 2020 to have a baby, she took advantage of the “time off” to take the Specialization.",
+    "url": "https://www.deeplearning.ai/blog/how-apala-guha-learned-ai-during-her-newborn-babys-naps/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How a Mathematician Found Career Satisfaction With Deep Learning",
+    "description": "Aleksandr Gontcharov is a software engineer at Microsoft. Early in his career, he moved from job to job, but none of them ever felt right. The Deep Learning Specialization helped him find his calling; he was hired for a machine learning role while still taking the courses. He spoke with us about why the Specialization was the spark that put his career in motion.",
+    "url": "https://www.deeplearning.ai/blog/how-aleksandr-gontcharov-found-career-satisfaction-with-deep-learning/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How an Astrophysicist Decided that Deep Learning Was His True Calling",
+    "description": "Luciano Darriba is an AI developer living in Buenos Aires, Argentina. In his former life, he was an astrophysicist. This wasn’t fulfilling him, so he took the Deep Learning Specialization in hopes of kickstarting a new trajectory. Less than a year later, he had a new job working at Baufest, a software services company.",
+    "url": "https://www.deeplearning.ai/blog/from-astrophysics-to-ai-why-luciano-darriba-made-the-switch/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How We Won the First Data-Centric AI Competition: Synaptic-AnN",
+    "description": "In this blog post, Synaptic-AnN, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-synaptic-ann/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How We Won the First Data-Centric AI Competition: Innotescus",
+    "description": "In this blog post, Innotescus, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-innotescus/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How We Won the First Data-Centric AI Competition: KAIST – AIPRLab",
+    "description": "In this blog post, KAIST-AIPRLab, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-kaist-aiprlab/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How I Won the First Data-centric AI Competition: Johnson Kuan",
+    "description": "In this blog post, Johnson Kuan, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-johnson-kuan/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How I Won the First Data-centric AI Competition: Mohammad Motamedi",
+    "description": "In this blog post, Mohammad Motamedi, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-mohammad-motamedi/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How I Won the First Data-centric AI Competition: Divakar Roy",
+    "description": "In this blog post, Divakar Roy, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-divakar-roy/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How I Won the First Data-centric AI Competition: Pierre-Louis Bescond",
+    "description": "In this blog post, Pierre-Louis Bescond, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-pierre-louis-bescond/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How We Won the First Data-centric AI Competition: GoDataDriven",
+    "description": "In this blog post, GoDataDriven, one of the winners of the Data-Centric AI Competition, describes techniques and strategies that led to victory. Participants received a fixed model architecture and a dataset of 1,500 handwritten Roman numerals. Their task was to optimize model performance solely by improving the dataset and dividing it into training and validation sets. The dataset size was capped at 10,000.",
+    "url": "https://www.deeplearning.ai/blog/data-centric-ai-competition-godatadriven/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Expanding Access to Education",
+    "description": "At DeepLearning.AI, we specialize in building high-quality learning experiences for people interested in machine learning and artificial intelligence. We aim to give everyone with an internet connection access to world-class education, and each time we launch a new course that delivers value for thousands of learners, we move one step closer to that goal.",
+    "url": "https://www.deeplearning.ai/blog/expanding-access-to-education/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2021 Pie & AI Ambassador Spotlight: José Morey & Rose Delilah Gesicho",
+    "description": "Jose Morey & Rose Delilah Gesicho share their Event Ambassador experience for the 2021 Pie & AI Ambassador Spotlight week. Read their stories!",
+    "url": "https://www.deeplearning.ai/blog/2021-pie-ai-ambassador-spotlight-jose-morey-rose-delilah-gesicho/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2021 Pie & AI Ambassador Spotlight: Utkarsh Raj & Tharindu Adhikan",
+    "description": "Utkarsh Raj & Tharindu Adhikan share their Event Ambassador experience for the 2021 Pie & AI Ambassador Spotlight week. Read their stories!",
+    "url": "https://www.deeplearning.ai/blog/2021-pie-ai-ambassador-spotlight-utkarsh-raj-tharindu-adhikan/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2021 Pie & AI Ambassador Spotlight: Vishwas Narayan & Ping Wang",
+    "description": "Vishwas Narayan & Ping Wang share their Event Ambassador experience for the 2021 Pie & AI Ambassador Spotlight week. Read their stories!",
+    "url": "https://www.deeplearning.ai/blog/2021-pie-ai-ambassador-spotlight-vishwas-narayan-ping-wang/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2021 Pie & AI Ambassador Spotlight: Kareem Negm & Tamara Koliada",
+    "description": "Kareem Negm & Tamara Koliada share their Event Ambassador experience for the 2021 Pie & AI Ambassador Spotlight week. Read their stories!",
+    "url": "https://www.deeplearning.ai/blog/2021-pie-ai-ambassador-spotlight-kareem-negm-tamara-koliada/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "2021 Pie & AI Ambassador Spotlight: Robert Daniel Maria & Rohit Singh Rathaur",
+    "description": "Robert Daniel Maria & Rohit Singh Rathaur share their Event Ambassador experiences for the 2021 Pie & AI Ambassador Spotlight week. Read their stories!",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-robert-daniel-maria-and-rohit-singh-rathaur/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "My Journey into AI – learning resources recommended by the speakers",
+    "description": "On April 13, DeepLearning.AI and Omdena assembled a panel of machine learning practitioners who shared their first-hand experience of going from non-traditional starting points to building a career in AI. For any aspiring machine learning engineers who missed the event, here’s a few of the speakers’ tips that we hope you’ll find helpful:",
+    "url": "https://www.deeplearning.ai/blog/my-journey-into-ai-learning-resources-recommended-by-the-speakers/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: Stoking GPU Clusters With Swetha Mandava",
+    "description": "Title: Senior Deep Learning Engineer, Nvidia Location: Santa Clara, California Education: Bachelor of Technology, Electronics and Communication Engineering, Manipal University; MS, Electrical and Computer Engineering, Carnegie Mellon University Favorite areas: Natural language processing, autoML, and interpretable AI Favorite researchers: Christopher…",
+    "url": "https://www.deeplearning.ai/blog/pushing-the-state-of-the-art-with-swetha-mandava/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of NLP",
+    "description": "Heroes of NLP is a video interview series featuring Andrew Ng, the founder of DeepLearning.AI, in conversation with thought leaders in NLP.   Watch Andrew lead an enlightening discourse around how these industry and academic…",
+    "url": "https://www.deeplearning.ai/blog/heroes-of-nlp/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking Into AI: Juggling Work, Projects, and Personal Life With Kennedy Wangari",
+    "description": "Kennedy Kamande Wangari got his first taste of AI just two years ago in Kenya. Since then, he has been sprinting towards a top-tier career by taking numerous online courses, working entry-level jobs, volunteering to grow his local AI community, and considering a startup. Next step: Earning a graduate degree. Kennedy shares lessons he learned from starting out at a breakneck pace and explains how he balances professional obligations with personal life.",
+    "url": "https://www.deeplearning.ai/blog/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: Building Bespoke Models With Jade Abbott",
+    "description": "Jade Abbott turned a childhood desire for a robotic best friend into a career training computers to understand human language. Having studied AI in school, she got her first job coding conventional software, but she found ways to apply machine learning to her work until that became central to her role. In the meantime, she founded an open source project to train NLP models on African languages. She spoke with us about her fascination with language, the importance of community, and how to incorporate wine into your learning practice.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-building-bespoke-models-with-jade-abbott/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Event Ambassador Spotlight: Adrián Munguía",
+    "description": "Adrián Munguía spent almost two decades working to create AI-powered products in key science and engineering roles at Silicon Valley startups and Fortune 500 corporations globally. In 2019, he founded AI MEXICO with an aim to educate AI professionals and create AI solutions for companies.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-adrian-munguia/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Event Ambassador Spotlight: Steffen Konrath",
+    "description": "Steffen Konrath studied business administration with a focus on marketing and computer science. He’s worked on numerous digital products and also created an AI community in Zurich called AI Suisse.He is fascinated with trying to find the truth beneath the surface and uses data for this purpose.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-steffen-konrath/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Event Ambassador Spotlight: Yan Xu",
+    "description": "Yan Xu completed her PhD in electrical engineering and currently works as a senior scientist at PROS Inc in Houston to develop innovative machine learning algorithms for pricing and sales effectiveness in e-commerce. She creates machine learning applications to drive business growth across industries and spends her spare time speaking on AI and ML-related topics in public.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-yan-xu/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Event Ambassador Spotlight: Mo Rebaie",
+    "description": "Hailing from Lebanon, Mo Rebaie completed his Bachelor’s in Math and Computer Science. He works as a deep learning engineer at Rebaie Analytics Group developing algorithms and creating prototypes for AI research labs and as an AI instructor at Coursera. He believes that providing opportunities via events, meetups, and panels can help foster a sense of community.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-mo-rebaie/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Event Ambassador Spotlight: Ghaith Sankari",
+    "description": "Ghaith Sankari graduated with a Bachelor’s Degree in AI and NLP from the University of Aleppo, Syria and now works in Dubai. Apart from being a DeepLearning.AI Event Ambassador, he’s also a mentor for our AI for Medicine Specialization. He believes in bringing people together to achieve collective excellence and make the world better.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-ghaith-sankari/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Event Ambassador Spotlight: Ayyüce Kızrak",
+    "description": "A year ago, we started our Pie & AI Event Ambassador Program. Since then, 100+ highly accomplished Event Ambassadors have organized more than 200 Pie & AI events – attended by 40K+ learners from 45 countries! This week, Ayyüce Kızrak is an AI researcher at the Digital Transformation Office (The Presidency of The Republic of Turkey) and at the Department of AI Engineering at Bahçeşehir University. She believes that it’s her social responsibility to use AI for environmental good.",
+    "url": "https://www.deeplearning.ai/blog/event-ambassador-spotlight-ayyuce-kizrak/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: Scheduling Pilots With Ronisha Carter",
+    "description": "Public service runs deep in Ronisha Carter’s family. Her mother was a Navy medical technician,  and her father worked for the Air Force in information management. The two parents ignited a sense of curiosity and love of learning that led Ronisha and her siblings to explore technology. Her sister was the first in the family to earn a Bachelor’s degree, and her brothers became software developers. Ronisha joined the Air Force and went on to earn a Bachelor’s in computer science and a Master’s in computer engineering before carving a unique path for herself in AI.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-scheduling-pilots-with-ronisha-carter/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: Transforming Real Estate With Jasjeet Thind",
+    "description": "As a child, Jasjeet Thind led the other kids at his daycare to engage in shenanigans. He still exercises his leadership skills, but instead he uses them to organize Zillow’s army of engineers as they aim to automate everything about real estate. Thind became fascinated with data as a college student at Cornell University in the 1990s, and his career exploded along with the deep learning revolution. Read more.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-transforming-real-estate-with-jasjeet-thind/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: Adama Diallo on Computer Vision and Diversity in AI",
+    "description": "Growing up in Mauritania, Adama Diallo was fascinated by the human brain. Now, as an AI developer at the software company Paradigm, he’s using artificial intelligence to map architectural spaces. In this edition of our Working AI series, Adama discusses his projects, advice for learners, and views on social bias in the industry. Read more.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-adama-diallo-computer-vision-diversity-in-ai/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking into AI: Advocating for Machine Learning in the Real World",
+    "description": "[et_pb_section][et_pb_row][et_pb_column type=”4_4″][et_pb_text]   After a decade in the wireless communications industry, Cherif was ready for a change. As he gained expertise at Palm and Apple, he kept a close eye on the rise of deep…",
+    "url": "https://www.deeplearning.ai/blog/breaking-into-ai-advocating-for-machine-learning-in-the-real-world/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Research Scientist Archis Joglekar",
+    "description": "While much of the AI revolution has served consumers, AI has a lot to offer to other aspects of society. I work at Noble.AI mainly because it gives me the opportunity to stay close to science.  At Noble.AI, we’re building software that speeds up the work of scientists, researchers, and engineers by 10 to 100 times.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-research-scientist-archis-joglekar/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking into AI: A Steady Diet of Courses, Competitions, and Papers",
+    "description": "Searching for more information, I stumbled upon the Deep Learning Specialization. I wasn’t sure how far I’d go, but after taking the first course in the Specialization, I was completely hooked. For the next 7 months, I ate courses for breakfast, lunch and dinner.",
+    "url": "https://www.deeplearning.ai/blog/breaking-into-ai-a-steady-diet-of-courses-competitions-and-papers/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI Asia: On Ethical AI with Andrew Ng",
+    "description": "Amid growing doubt that technology can be a positive force, it’s more important than ever to make sure that we, the AI community, act ethically.  There are already several existing AI ethics codes that corporations and governments have published.",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-asia-on-ethical-ai-with-andrew-ng/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking into AI: Marrying Web Performance with Machine Learning",
+    "description": "Nitin pushed the limits of his software engineering skills to build important products, but he knew he needed to learn more. After taking the Deep Learning Specialization, he specifically applied to jobs that would allow him to transition from web performance to machine learning engineer.",
+    "url": "https://www.deeplearning.ai/blog/breaking-into-ai-marrying-web-performance-with-machine-learning/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Research Scientist Or Cohen",
+    "description": "Or Cohen’s deep background in physics gave him the theoretical foundation to dive into machine learning. Now he’s prototyping new models at Lyft to boost the accuracy and efficiency of the ridesharing marketplace.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-research-scientist-or-cohen/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Breaking into AI: From DevOps Expert to MLE Beginner",
+    "description": "Daniel Barbosa Machine Learning Engineer @ Eko Health How did you get started in AI? I’ve been involved in technology for over 20 years, first as a systems administrator and then as a DevOps Engineer….",
+    "url": "https://www.deeplearning.ai/blog/breaking-into-ai-from-devops-expert-to-mle-beginner/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI Bogotá: A Conversation with Andrew Ng and Jehudi Castro",
+    "description": "Andrew Ng and Vice Minister of Digital Economy Jehudi Castro sit down during a Pie & AI meetup event in Bogotá, Colombia on September 26, 2019. They discuss the future of AI in the global…",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-bogota-a-conversation-with-andrew-ng-and-jehudi-castro/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI Medellín: A Conversation with Andrew Ng and Helmuth Trefftz",
+    "description": "Andrew Ng and Helmuth Trefftz sit down during a Pie & AI meetup in Medellín, Colombia on August 22, 2019. Andrew explains why deeplearning.ai, Landing AI, and AI Fund chose to open their first international…",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-medellin-a-conversation-with-andrew-ng-and-helmuth-trefftz/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Senior MLE Omoju Miller",
+    "description": "Omoju Miller’s path to machine learning is anything but straightforward. She first discovered computer science more than twenty years ago as an undergrad at University of Memphis and never looked back.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-senior-mle-omoju-miller/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Andrew Ng at Amazon re:MARS 2019",
+    "description": "In eras of technological disruption, leadership matters.    Andrew Ng speaks about the progress of AI, how to accelerate AI adoption, and what’s around the corner for AI at Amazon re:MARS 2019 in Las Vegas,…",
+    "url": "https://www.deeplearning.ai/blog/andrew-ng-at-amazon-remars-2019/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Pie & AI: TensorFlow Specialization Launch @ Google HQ",
+    "description": "To celebrate the launch of the final course in the deeplearning.ai TensorFlow Specialization, we hosted our third Pie & AI meetup at Google’s headquarters in Sunnyvale! Andrew was joined by TensorFlow Specialization instructor Laurence Moroney,…",
+    "url": "https://www.deeplearning.ai/blog/pie-ai-tensorflow-specialization-launch-google-hq/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with VP of Applied Deep Learning Research Bryan Catanzaro",
+    "description": "Bryan Catanzaro began his career designing microprocessors. Now he leads a team of 40 researchers pushing the boundaries of deep learning at Nvidia.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-vp-of-applied-deep-learning-research-bryan-catanzaro/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Principal Data Scientist Mihajlo Grbovic",
+    "description": "In my line of work–recommending items to users and ranking the items in their searches–the objective is almost impossible to define because the perfect recommendation or ranking does not exist.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-principal-data-scientist-mihajlo-grbovic/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: In the Classroom with Younes Mourri",
+    "description": "Younes is both Masters student and Lecturer at Stanford University. Rather than cutting-edge research, Younes focuses on AI education. He has developed content for the most popular Machine Learning and Deep Learning courses in the world…",
+    "url": "https://www.deeplearning.ai/blog/working-ai-in-the-classroom-with-younes-mourri/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "How to Develop Your Own AI Playbook: Andrew Ng and Will Knight at MIT Tech Review’s 2019 EmTech Digital",
+    "description": "Andrew Ng and MIT Tech Review’s Senior AI Editor Will Knight close out EmTech Digital on March 26, 2019 in San Francisco. Andrew reflects on how his own experiences leading the Google Brain team and…",
+    "url": "https://www.deeplearning.ai/blog/how-to-develop-your-own-ai-playbook-andrew-ng-and-will-knight-at-mit-tech-reviews-2019-emtech-digital/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with MLE Ruben Sipos",
+    "description": "Location: San Francisco, California Age: 33 Education: B.Sc. in Computer Science and Mathematics, 2009, University of Ljubljana, PhD in Computer Science, 2014, Cornell University Years in industry: 5 Favorite movie: Event Horizon (1997) Favorite machine learning researcher: Thorsten…",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-mle-ruben-sipos/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Research Engineer Will Wolf",
+    "description": "How did you first get started in AI? I’ve always loved mathematics. When I was a teenager, I was what I call a semi-professional internet poker player. This left three profound marks on my…",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-research-engineer-will-wolf/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: In the Lab with NLP PhD Student Abigail See",
+    "description": "Abi See made the transition from pure math to deep learning. Now she aims to turn computers into storytellers.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-in-the-lab-with-nlp-phd-student-abigail-see/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Data Scientist Joe Gambino",
+    "description": "Working at IDEO has let me work on a wide range of problems: I’ve used clustering and dimensionality reduction to create a prototype that communicates health data while encouraging empathy and engagement. I’ve run traffic simulations to assess the size of delivery markets and prototyped animated, interactive explanations inspired by those simulations. I’ve built internal React web-apps for collecting data and texting customers.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-data-scientist-joe-gambino/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with Applied Scientist Matineh Shaker",
+    "description": "How is an Applied Scientist different from a Machine Learning Engineer? We went to straight to the source and interviewed Microsoft Applied Scientist Matineh Shaker about how she got here, what she’s working on, and how she keeps learning.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-applied-scientist-matineh-shaker/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Working AI: At the Office with MLE Dillon Laird",
+    "description": "What does a Machine Learning Engineer actually do all day? Meet MLE Dillon Laird, and hear about what he’s working on at Landing AI, what tech stack he uses, and how he keeps up on the latest research and news.",
+    "url": "https://www.deeplearning.ai/blog/working-ai-at-the-office-with-mle-dillon-laird/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ACM Webinar: Q&A with Andrew Ng on Building a Career in Machine Learning",
+    "description": "When I look at the work that I do in AI, frankly a lot of it is dirty work. It’s downloading that dataset, cleaning that dataset, plotting a learning curve and trying to figure out…",
+    "url": "https://www.deeplearning.ai/blog/acm-webinar-qa-with-andrew-ng-on-building-a-career-in-machine-learning/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Andrew Ng launches ‘AI for Everyone,’ a new Coursera program aimed at business professionals",
+    "description": "Andrew Ng, a computer scientist who led Google’s AI division, Google Brain, and formerly served as vice president and chief scientist at Baidu, is a veritable celebrity in the artificial intelligence (AI) industry. After leaving Baidu, he debuted…",
+    "url": "https://www.deeplearning.ai/blog/andrew-ng-launches-ai-for-everyone-program/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Announcing “AI for Everyone”: a new course from deeplearning.ai",
+    "description": "Dear Friends,   I am excited to announce the newest course from deeplearning.ai, “AI for Everyone.” It will be available on Coursera in early 2019. AI is not only for engineers. This non-technical course…",
+    "url": "https://www.deeplearning.ai/blog/announcing-ai-for-everyone/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Deep Learner Spotlight: Christine Payne",
+    "description": "Introduce yourself: What’s your background? Did you have a technical role prior to enrolling in the course? Throughout my life I’ve juggled my love of both science and music. I was a physics major in…",
+    "url": "https://www.deeplearning.ai/blog/deep-learner-spotlight-christine-payne/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Guru Andrew Ng on the Job Market of Tomorrow",
+    "description": "The co-founder of Google’s deep-learning research team on the promise of a conditional basic income, the need for a skills-based education system and what CEOs don’t understand about artificial intelligence Sentient artificial intelligence may take…",
+    "url": "https://www.deeplearning.ai/blog/ai-guru-andrew-ng-on-the-job-market-of-tomorrow/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Deep Learner Spotlight: Wolfgang Reuter",
+    "description": "Introduce yourself: What’s your background? I am a Senior AI Strategist in the applied AI initiative at Unternehmertum, a German start-up incubator and innovation consultancy. I also work freelance as an AI programmer. These jobs…",
+    "url": "https://www.deeplearning.ai/blog/deep-learner-spotlight-wolfgang-reuter/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "“The Enterprise Path to AI:” Andrew at the Samsung CEO Summit",
+    "description": "Take AI not just to the great shiny tech companies, but also to industries like manufacturing, agriculture, or healthcare where the value creation is very large. How can enterprises can transform using AI? Andrew…",
+    "url": "https://www.deeplearning.ai/blog/the-enterprise-path-to-ai/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Atlantic Festival: Senior Atlantic Editor Ross Anderson Sits Down With Andrew Ng",
+    "description": "Andrew Ng and Atlantic Senior Editor Ross Andersen spoke at the Atlantic Festival in Washington DC on October 4th, 2018. Andrew and Ross discuss the global effects of AI – its upside and its…",
+    "url": "https://www.deeplearning.ai/blog/atlantic-festival/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "IFC Emerging Markets Venture Forum: World Bank President Jim Yong Kim Sits Down With Andrew Ng",
+    "description": "What can developing countries do to benefit from AI?   Skip to 21:45 to watch World Bank President Jim Yong Kim and Andrew’s fireside chat at the IFC Emerging Markets Venture Forum on October 4,…",
+    "url": "https://www.deeplearning.ai/blog/ifc-vc-forum/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Dawn Song",
+    "description": "Dawn Song is well-known for her research on the intersection of deep learning and security. Aside from her research, Song is also a Professor in the Department of Electrical Engineering and Computer Science at UC Berkeley and CEO of Oasis Labs, a blockchain startup that is creating a privacy-first cloud computing platform on blockchain.",
+    "url": "https://www.deeplearning.ai/blog/hodl-dawn-song/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Deep Learner Spotlight: Jan Zawadzki",
+    "description": "Introduce yourself: What’s your background? Did you have a technical role prior to enrolling in the course? My background is split between a traditional business education and a computer science education. I studied Business Administration…",
+    "url": "https://www.deeplearning.ai/blog/deep-learner-spotlight-jan-zawadzki/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Deep Learner Spotlight: Chris Morrow",
+    "description": "Introduce yourself: What’s your background? Did you have a technical role prior to enrolling in the course? I do not have a technical background. I spent about eight years as an Army Officer, leading small…",
+    "url": "https://www.deeplearning.ai/blog/deep-learner-spotlight-chris-morrow/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Deep Learner Spotlight: Kritika Jalan",
+    "description": "Introduce yourself: What’s your background? Did you have a technical role prior to enrolling in the course? I am an IT engineer from Nirma University, India working currently as a data scientist in a US-based…",
+    "url": "https://www.deeplearning.ai/blog/deep-learner-spotlight-kritika-jalan/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Ian Goodfellow",
+    "description": "“One way that you could get a lot of attention is to write good code and put it on Github. If you have an interesting project that solves a problem that someone working at…",
+    "url": "https://www.deeplearning.ai/blog/hodl-ian-goodfellow/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Behind the Tech Podcast: Microsoft CTO Kevin Scott Sits Down With Andrew Ng",
+    "description": "“One of the things I’ve learned in my career is that you have to do things before they’re obvious to everyone if you want to make a difference and get the best result.” In…",
+    "url": "https://www.deeplearning.ai/blog/behind-the-tech-podcast-microsoft-cto-kevin-scott-sits-down-with-andrew-ng/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Geoffrey Hinton",
+    "description": "“Read enough to develop your intuitions, then trust your intuitions.” Geoffrey Hinton is known by many to be the godfather of deep learning. Aside from his seminal 1986 paper on backpropagation, Hinton has invented several…",
+    "url": "https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Andrew Ng Is Probably Teaching More Students Than Anyone Else on the Planet. (Without a University Involved.)",
+    "description": "One selling point of MOOCs (massive online open courses) has been that students can access courses from the world’s most famous universities. The assumption—especially in the marketing messages from major providers like Coursera and edX—is…",
+    "url": "https://www.deeplearning.ai/blog/andrew-ng-teaching-more-students-than-anyone-else/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Building an AI-Powered Society: Greylock’s Sarah Guo Chats With Andrew Ng",
+    "description": "“The vast majority of the economic value created by the modern rise of AI today is through one technique called supervised learning, which just means learning input to output mappings.” Recent breakthroughs in Artificial…",
+    "url": "https://www.deeplearning.ai/blog/building-an-ai-powered-society-greylocks-sarah-guo-chats-with-andrew-ng/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Yann LeCun",
+    "description": "“If you want to get into [AI], make yourself useful. So make a contribution to an open-source project for example, or make an implementation of some standard algorithm that you couldn’t find the code of…",
+    "url": "https://www.deeplearning.ai/blog/hodl-yann-lecun/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "“The State of Artificial Intelligence” – Andrew Ng at MIT EmTech 2017",
+    "description": "“Anything a typical person can do with less than a second of thinking we can probably now, or soon, automate. Why is deep learning taking off now? What are the limitations of AI? Why…",
+    "url": "https://www.deeplearning.ai/blog/the-state-of-artificial-intelligence-andrew-ng-at-mit-emtech-2017/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Pieter Abbeel",
+    "description": "“Make sure you try things yourself. So not just reading things or watching videos but try things out with frameworks like TensorFlow, Chainer, Theano, Pytorch, and so forth.” Deep Reinforcement Learning is one of…",
+    "url": "https://www.deeplearning.ai/blog/hodl-pieter-abbeel/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Yuanqing Lin",
+    "description": "“When I started studying deep learning, there weren’t many open-source resources. I think now in AI, and especially deep learning, there is a very good community and good deep learning frameworks to start with.”…",
+    "url": "https://www.deeplearning.ai/blog/hodl-yuanqing-lin/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Ruslan Salakhutdinov",
+    "description": "“In academia, I feel like you have more freedom to work on long-term problems. At the same time, the research you do in industry is also very exciting because, in many cases, you can…",
+    "url": "https://www.deeplearning.ai/blog/hodl-ruslan-salakhutdinov/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Yoshua Bengio",
+    "description": "“Don’t be afraid of the math. Just develop the intuitions and then the math becomes easier to understand once you get the hang of what’s going on at the intuitive level.” Along with Geoffrey…",
+    "url": "https://www.deeplearning.ai/blog/hodl-yoshua-bengio/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Heroes of Deep Learning: Andrej Karpathy",
+    "description": "“It’s really important to not abstract away things. You need to have a full understanding of the whole stack.” Andrej Karpathy was first exposed to AI as a student in Geoffrey Hinton’s class at the…",
+    "url": "https://www.deeplearning.ai/blog/hodl-andrej-karpathy/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Andrew Ng’s Next Trick: Training a Million AI Experts",
+    "description": "Millions of people should master deep learning, says a leading AI researcher and educator. Andrew Ng, one of the world’s best-known artificial-intelligence experts, is launching an online effort to create millions more AI experts across…",
+    "url": "https://www.deeplearning.ai/blog/andrew-ng-training-a-million-ai-experts/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "deeplearning.ai: Announcing new Deep Learning courses on Coursera",
+    "description": "Dear Friends, I have been working on three new AI projects, and am thrilled to announce the first one: deeplearning.ai, a project dedicated to disseminating AI knowledge, is launching a new sequence of Deep Learning courses on Coursera….",
+    "url": "https://www.deeplearning.ai/blog/deeplearning-ai-announcing-new-deep-learning-courses-on-coursera/",
+    "type": "blog",
+    "source": "deeplearning.ai"
+  }
+]

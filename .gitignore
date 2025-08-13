@@ -1,0 +1,14 @@
+# Virtual environments
+cb-ven/
+.venv/
+env/
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+data/test_img/

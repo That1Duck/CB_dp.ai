@@ -1,0 +1,688 @@
+[
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI Python for Beginners",
+    "description": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+    "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Generative AI for Everyone",
+    "description": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+    "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "Multi AI Agent Systems with crewAI",
+    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+    "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "LangChain for LLM Application Development",
+    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  },
+  {
+    "title": "AI for Everyone",
+    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+    "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+    "type": "course",
+    "source": "deeplearning.ai"
+  }
+]
