@@ -6,25 +6,11 @@ load_dotenv(Path(os.getcwd())/'.env')
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from jinja2 import Environment, FileSystemLoader
 
 from src.retriever.retriever_v0_1 import guarded_retriever
 
 llm = ChatOpenAI(temperature=0)
-
-PROMPT = ChatPromptTemplate.from_template("""
-You are an assistant who recommends material from deeplearning.ai.
-You have a user request and up to {k} candidates. 
-Choose ONE best candidate, explain briefly why (1–2 sentences), and provide the exact link.
-Answer format:
-Title: ...
-Why: ...
-URL: ...
-
-Request: {query}
-
-Candidates:
-{candidates}
-""")
 
 def format_candidates(docs):
     lines = []
@@ -45,7 +31,13 @@ def answer_with_citation(query, intent, k = 4, conf_thresh = 0.38):
             "meta": meta
         }
 
-    pipeline = PROMPT | llm | StrOutputParser()
+    # Jinja template
+    env = Environment(loader=FileSystemLoader("prompts"), autoescape=False)
+    template = env.get_template("recommendation_prompt.jinja")
+    rendered_prompt = template.render(query=query, k=k, candidates=format_candidates(docs))
+    prompt = ChatPromptTemplate.from_messages([("human", rendered_prompt)])
+
+    pipeline = prompt | llm | StrOutputParser()
     text = pipeline.invoke({
         "query": query,
         "k": k,
