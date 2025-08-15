@@ -11,4 +11,9 @@ venv/
 # Logs
 *.log
 
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
 data/test_img/
