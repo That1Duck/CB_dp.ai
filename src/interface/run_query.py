@@ -1,8 +1,8 @@
 import os
 
 from src.image_processing.image2text import process_image
-from src.agents.decision_agents_v0_1 import decide
-from src.chains.retriever_chain_v0_1 import answer_with_citation
+from src.agents.decision_agents import decide
+from src.chains.retriever_chain import answer_with_citation
 from src.utils.logging import get_logger
 
 logger = get_logger("Pipeline")

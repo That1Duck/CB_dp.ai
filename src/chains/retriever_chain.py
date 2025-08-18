@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from jinja2 import Environment, FileSystemLoader
 
-from src.retriever.retriever_v0_1 import guarded_retriever
+from src.retriever.retriever import guarded_retriever
 
 llm = ChatOpenAI(temperature=0)
 

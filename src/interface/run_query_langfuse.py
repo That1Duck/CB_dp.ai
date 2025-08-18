@@ -3,7 +3,7 @@ from distutils.command.clean import clean
 from langfuse import observe, get_client
 from langfuse.langchain import CallbackHandler
 
-from src.interface.run_query_v0_1 import run_query
+from src.interface.run_query import run_query
 
 def run_query_with_trace(user_input, meta):
     client = get_client()

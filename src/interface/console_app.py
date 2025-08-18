@@ -1,5 +1,5 @@
 #from src.interface.run_query import run_query
-from src.interface.run_query_v0_1 import run_query
+from src.interface.run_query import run_query
 
 def run():
     print("Enter your query or path to image. For exit use Ctrl + C:")
