@@ -3,10 +3,14 @@ import os
 from src.image_processing.image2text import process_image
 from src.agents.decision_agents_v0_1 import decide
 from src.chains.retriever_chain_v0_1 import answer_with_citation
+from src.utils.logging import get_logger
+
+logger = get_logger("Pipeline")
 
 IMAGE_EXT = (".png", ".jpg", ".jpeg", ".webp")
 
 def run_query(user_input):
+    logger.info("Start processing request")
     # Input
     # Check if user_input is the path to image
     if os.path.isfile(user_input) and user_input.lower().endswith(IMAGE_EXT):
@@ -21,8 +25,10 @@ def run_query(user_input):
     if not query_text:
         return {"status": "bad_input", "message": "Error", "source_type": source_type}
 
+    logger.info("Identification of the source completed")
     # Choose intent for retriever
     decision = decide(query_text)
+    logger.info("Routing completed")
     #
     if decision["domain"] == "oos":
         return{
@@ -40,4 +46,5 @@ def run_query(user_input):
     result["query_text"] = query_text
     result["source_type"] = source_type
     result["decision"] = decision
+    logger.info("Generation complete")
     return result

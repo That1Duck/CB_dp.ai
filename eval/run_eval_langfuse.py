@@ -3,6 +3,10 @@ from pathlib import Path
 
 from src.interface.run_query_langfuse import run_query_with_trace
 from langfuse import observe, get_client
+from src.utils.logging import configure_logging, get_logger
+
+configure_logging("INFO", "logs/eval.log")
+logger = get_logger("eval")
 
 DATASET = Path("eval/dataset.json")
 
@@ -20,6 +24,7 @@ def rank_in_candidates(cands, expected_url):
 
 @observe
 def run_case(case):
+    logger.info("Start of case", extra={"id": case["id"]})
     client = get_client()
     client.update_current_trace(
         name = "eval_case",
@@ -89,7 +94,12 @@ def run_case(case):
             "url":result.get("url")
         }
     })
-    print(f"[{case.get('id')}] status={result.get('status')} title={result.get('title')} url={result.get('url')}")
+    logger.info("Case completed", extra={
+        "id": case["id"],
+        "status": result.get("status"),
+        "intent": result.get("intent"),
+        "url": result.get("url"),
+    })
 
 @observe()
 def main():
