@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from jinja2 import Environment, FileSystemLoader
 
-from src.retriever.retriever import guarded_retriever
+from src.retriever.retriever import RetrieverService
 
 llm = ChatOpenAI(temperature=0)
 
@@ -19,7 +19,8 @@ def format_candidates(docs):
     return "\n\n".join(lines)
 
 def answer_with_citation(query, intent, k = 4, conf_thresh = 0.38):
-    docs, status, meta = guarded_retriever(query, intent, k=k, thresh=conf_thresh)
+    retriever = RetrieverService(threshold=0.38, k=4)
+    docs, status, meta = retriever.guarded_retriever(query, intent, k=k, thresh=conf_thresh)
 
     if status in ("empty", "low_conf"):
         return {

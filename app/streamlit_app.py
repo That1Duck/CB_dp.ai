@@ -3,7 +3,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from src.interface.run_query_v0_1 import run_query
+from src.interface.run_query import run_query
 from src.utils.logging import configure_logging, get_logger
 
 configure_logging("INFO")

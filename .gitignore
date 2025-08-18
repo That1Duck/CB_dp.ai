@@ -17,4 +17,7 @@ __pycache__/
 *.py[cod]
 
 data/test_img/
-logs/
+logs/app.log
+logs/eval.log
+
+!logs
