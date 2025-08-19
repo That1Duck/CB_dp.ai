@@ -89,6 +89,33 @@ Launch:
   ```
   python -m streamlit run app/streamlit_app.py
   ```
+  
+- Launch docker
+
+  Image assembly
+  ```
+  docker build -t chatbot-run .
+  ```
+
+  Launch UI
+  ```
+  docker run --rm -p 8501:8501 \
+  -v "$(pwd)/vectorstore:/app/vectorstore" \
+  -v "$(pwd)/data:/app/data" \
+  --env-file .env \
+  chatbot-run
+  ```
+
+  Launching the evaluation script (without UI)
+  ```
+  docker run --rm -p 8501:8501 \
+  -v "$(pwd)/vectorstore:/app/vectorstore" \
+  -v "$(pwd)/data:/app/data" \
+  --env-file .env \
+  chatbot-run \
+  python -m eval.run_eval_langfuse
+  ```
+
 ## Basic structure
 1. **data**
    - `raw` - storage location of original data after parsing
