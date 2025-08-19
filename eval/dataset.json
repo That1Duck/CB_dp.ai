@@ -3,66 +3,77 @@
     "id": "e1",
     "query": "I want to learn Python for AI apps",
     "expected_intent": "course",
-    "expected_url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/"
+    "expected_url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "reference": "AI Python for Beginners"
   },
   {
     "id": "e2",
     "query": "What are current trends in Python for data analysis on deeplearning.ai?",
     "expected_intent": "blog",
-    "expected_url": "https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends/"
+    "expected_url": "https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends/",
+    "reference": "Python for Data Analysis: Key Stats and Trends"
   },
   {
     "id": "e3",
     "query": "Recommend a course to start with LLMs and generative AI",
     "expected_intent": "course",
-    "expected_url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+    "expected_url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "reference": "ChatGPT Prompt Engineering for Developers"
   },
   {
   "id": "e4",
   "query": "What libraries are needed to work with AI ?",
   "expected_intent": "blog",
-  "expected_url": "https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/"
+  "expected_url": "https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/",
+    "reference": "Essential Python Libraries for Machine Learning and Data Science\""
   },
   {
     "id": "e5",
     "query": "How to build agents wich can interact with websites",
     "expected_intent": "course",
-    "expected_url": "https://www.deeplearning.ai/short-courses/building-ai-browser-agents/"
+    "expected_url": "https://www.deeplearning.ai/short-courses/building-ai-browser-agents/",
+    "reference": "Building AI Browser Agents"
   },
   {
     "id": "e6",
     "query": "Tell me what programming languages are used in the implementation of AI programs",
     "expected_intent": "blog",
-    "expected_url": "https://www.deeplearning.ai/blog/five-important-ai-programming-languages/"
+    "expected_url": "https://www.deeplearning.ai/blog/five-important-ai-programming-languages/",
+    "reference": "Five Important AI Programming Languages"
   },
   {
     "id": "e7",
     "query": "Looking for a course on building RAG applications with vector databases",
     "expected_intent": "course",
-    "expected_url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases"
+    "expected_url": "https://www.deeplearning.ai/short-courses/building-applications-vector-databases",
+    "reference": "Building Applications with Vector Databases"
   },
   {
-  "id": "e8",
-  "query": "Can be AI used in aerospace industry?",
-  "expected_intent": "blog",
-  "expected_url": "https://www.deeplearning.ai/blog/jagriti-agrawal/"
+    "id": "e8",
+    "query": "Can be AI used in aerospace industry?",
+    "expected_intent": "blog",
+    "expected_url": "https://www.deeplearning.ai/blog/jagriti-agrawal/",
+    "reference": "AI in Aerospace: Insights by Jagriti Agrawa"
   },
   {
-  "id": "e9",
-  "query": "implementation of long-term memory in AI",
-  "expected_intent": "course",
-  "expected_url": "https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/"
+    "id": "e9",
+    "query": "implementation of long-term memory in AI",
+    "expected_intent": "course",
+    "expected_url": "https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/",
+    "reference": "Long-term Agentic Memory with LangGraph"
   },
   {
     "id": "e10",
     "query": "Explain quantum mechanics basics",
     "expected_intent": "oos",
-    "expected_url": null
+    "expected_url": null,
+    "reference": ""
   },
   {
     "id": "e11",
     "query": "Best pizza restaurants in New York",
     "expected_intent": "oos",
-    "expected_url": null
+    "expected_url": null,
+    "reference": ""
   }
 ]

@@ -1,5 +1,10 @@
+import os
 import json
 from pathlib import Path
+from ragas import evaluate
+from ragas.metrics import answer_relevancy, context_precision, context_recall, faithfulness
+from datasets import Dataset
+import pandas as pd
 
 from src.interface.run_query_langfuse import run_query_with_trace
 from langfuse import observe, get_client
@@ -14,6 +19,7 @@ def norm_url(url):
     return url.strip().rstrip("/").lower()
 
 def rank_in_candidates(cands, expected_url):
+    """Returns the 1-based position of expected_url in the list of candidates, if found, otherwise None."""
     if not expected_url or not cands:
         return None
     exp_url = norm_url(expected_url)
@@ -46,7 +52,7 @@ def run_case(case):
     predicted_intent = (result.get("decision") or {}).get("intent") or result.get("intent")
     expected_url = case.get("expected_url")
 
-    metrics = client.start_span(name="Metrics")
+    metrics_span = client.start_span(name="Metrics")
     try:
         # Intent Accuracy
         if expected_intent in ("course", "blog"):
@@ -77,14 +83,34 @@ def run_case(case):
                 comment=f"case_id: {case_id}"
             )
 
-        metrics.update(output={
-            "Intent_Accuracy": acc if expected_intent in ("course", "blog") else None,
-            "OOS_Refusal": oos if expected_intent == "oos" else None,
-            "hit@3": hit3,
-            "URL_match": url_match,
-        })
+        # Ragas
+        answer_text = f"{result.get('title') or ''}\n{result.get('why') or ''}".strip()
+        contexts = []
+        for cand in (result.get('candidates') or []):
+            cand_text = f"{cand.get('title') or ''}\n{cand.get('description') or ''}".strip()
+            if cand_text:
+                contexts.append(cand_text)
+
+        row = {"question": case["query"], "answer": answer_text, "contexts": contexts, "reference":case.get("reference", "")}
+        ds = Dataset.from_pandas(pd.DataFrame([row]))
+        ragas_metrics = [answer_relevancy, context_precision, context_recall]
+        if os.getenv("OPENAI_API_KEY"):
+            ragas_metrics.append(faithfulness)
+
+        ragas_report = evaluate(ds, metrics=ragas_metrics)
+
+        metrics_span.update(output={
+                "Intent_Accuracy": acc if expected_intent in ("course", "blog") else None,
+                "OOS_Refusal": oos if expected_intent == "oos" else None,
+                "hit@3": hit3,
+                "URL_match": url_match,
+                "Ragas": {"answer_relevancy":float(ragas_report.scores[0]["answer_relevancy"]),
+                          "context_precision":float(ragas_report.scores[0]["context_precision"]),
+                          "context_recall":float(ragas_report.scores[0]["context_recall"]),
+                          "faithfulness":float(ragas_report.scores[0]["faithfulness"])}
+            })
     finally:
-        metrics.end()
+        metrics_span.end()
 
     client.update_current_span(output={
         "result_summary":{
