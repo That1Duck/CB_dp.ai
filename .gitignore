@@ -20,4 +20,4 @@ data/test_img/
 logs/app.log
 logs/eval.log
 
-!logs
+!logs/.keep
