@@ -79,10 +79,15 @@ Launch:
   ```
   python main.py
   ```
-- Launch foe evaluation
+- Launch for evaluation
 
   ``` 
   python -m eval.run_eval_langfuse
+  ```
+- Launch app thru streamlit
+
+  ```
+  python -m streamlit run app/streamlit_app.py
   ```
 ## Basic structure
 1. **data**
@@ -100,6 +105,16 @@ Launch:
 4. **eval**
    - `dataset` - dataset for evaluation 
    - `run_eval_langfuse` - launch evaluation with LangFuse
+5. **app**
+   - `streamlit_app` - app with UI
+6. **logs**
+   - `app.log` - logs from app run
+   - `eval.log` - logs from eval run
+7. **prompts**
+   - `decision_prompt_prompt` - prompt for decision chain
+   - `recommendation_prompt` -  prompt for retriever chain
+8. **experiments**
+   - folder containing the results of the program's work 
 
 ## Test results 
 To evaluate the chatbot's performance, a dataset was created with entries in the following format:
@@ -108,7 +123,8 @@ To evaluate the chatbot's performance, a dataset was created with entries in the
     "id": "e1",
     "query": "I want to learn Python for AI apps",
     "expected_intent": "course",
-    "expected_url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/"
+    "expected_url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+    "reference": "AI Python for Beginners"
   }
 ```
 
@@ -117,8 +133,13 @@ Metrics used to evaluate performance:
 - oos_refusal - are the rejections of requests marked as `oos` correct
 - hit@3 - does `expected_url` fall within the top 3 candidates
 - url_match - does the received `url` match the `expected_url`
+- Regas
+  - answer relevancy - how well the answer matches the question
+  - context precision - how relevant are the extracted context fragments
+  - context recall - how completely the system extracted the necessary information
+  - faithfulness - how well the answer fits the context
 
-Test results and examples of how it works can be viewed [here](excperimets).
+Test results and examples of how it works can be viewed [here](experiments).
 
 ## Possible bottlenecks and opportunities for functional expansion
 I would like to note that the following weaknesses were observed in the test results:
